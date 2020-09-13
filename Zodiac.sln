@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Sandbox", "Sandbox\Sandbox.vcxproj", "{C1C6038F-C85F-4FE0-A3A9-8A25F7646E57}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Zodiac", "Zodiac\Zodiac.vcxproj", "{24F9375C-CE0B-406E-A612-AC1B5595556A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{24F9375C-CE0B-406E-A612-AC1B5595556A}.Debug|x64.ActiveCfg = Debug|x64
+		{24F9375C-CE0B-406E-A612-AC1B5595556A}.Debug|x64.Build.0 = Debug|x64
+		{24F9375C-CE0B-406E-A612-AC1B5595556A}.Release|x64.ActiveCfg = Release|x64
+		{24F9375C-CE0B-406E-A612-AC1B5595556A}.Release|x64.Build.0 = Release|x64
+		{C1C6038F-C85F-4FE0-A3A9-8A25F7646E57}.Debug|x64.ActiveCfg = Debug|x64
+		{C1C6038F-C85F-4FE0-A3A9-8A25F7646E57}.Debug|x64.Build.0 = Debug|x64
+		{C1C6038F-C85F-4FE0-A3A9-8A25F7646E57}.Release|x64.ActiveCfg = Release|x64
+		{C1C6038F-C85F-4FE0-A3A9-8A25F7646E57}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E276F36A-D4A2-4988-BDF4-2B5C80D6BB64}
+	EndGlobalSection
+EndGlobal
